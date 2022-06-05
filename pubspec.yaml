@@ -1,8 +1,7 @@
 name: scrolling_buttons_bar
 description: A new Flutter package project.
 version: 0.0.1
-author: Mucahit Bircan
-homepage:
+homepage: https://github.com/mucahitbircan/scrolling_buttons_bar
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
